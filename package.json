@@ -4,6 +4,9 @@
   "type": "module",
   "description": "rite — a React component library distributed as a single package (@fargone/rite).",
   "homepage": "https://rite.fargone.sh",
+  "repository": {
+    "url": "https://github.com/fargonesh/rite"
+  },
   "keywords": ["react", "react-components", "component-library", "typescript", "tailwind", "charts", "schedule", "forms", "ui"],
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
