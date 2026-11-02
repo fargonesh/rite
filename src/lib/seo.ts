@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://rite.fargone.sh';
+export const SITE_URL = 'https://rite.platform.fargone.sh';
 export const SITE_NAME = 'rite';
 export const PACKAGE_NAME = '@fargone/rite';
 

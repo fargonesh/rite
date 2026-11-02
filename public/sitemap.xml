@@ -1,922 +1,922 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rite.fargone.sh/</loc>
+    <loc>https://rite.platform.fargone.sh/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/examples</loc>
+    <loc>https://rite.platform.fargone.sh/examples</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/examples/vesper</loc>
+    <loc>https://rite.platform.fargone.sh/examples/vesper</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/examples/meridian</loc>
+    <loc>https://rite.platform.fargone.sh/examples/meridian</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/examples/ledger</loc>
+    <loc>https://rite.platform.fargone.sh/examples/ledger</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Accordion</loc>
+    <loc>https://rite.platform.fargone.sh/c/Accordion</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/AppShell</loc>
+    <loc>https://rite.platform.fargone.sh/c/AppShell</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/AspectRatio</loc>
+    <loc>https://rite.platform.fargone.sh/c/AspectRatio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Box</loc>
+    <loc>https://rite.platform.fargone.sh/c/Box</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Card</loc>
+    <loc>https://rite.platform.fargone.sh/c/Card</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Center</loc>
+    <loc>https://rite.platform.fargone.sh/c/Center</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Container</loc>
+    <loc>https://rite.platform.fargone.sh/c/Container</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Divider</loc>
+    <loc>https://rite.platform.fargone.sh/c/Divider</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Fieldset</loc>
+    <loc>https://rite.platform.fargone.sh/c/Fieldset</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Flex</loc>
+    <loc>https://rite.platform.fargone.sh/c/Flex</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Grid</loc>
+    <loc>https://rite.platform.fargone.sh/c/Grid</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Group</loc>
+    <loc>https://rite.platform.fargone.sh/c/Group</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Paper</loc>
+    <loc>https://rite.platform.fargone.sh/c/Paper</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/SimpleGrid</loc>
+    <loc>https://rite.platform.fargone.sh/c/SimpleGrid</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Space</loc>
+    <loc>https://rite.platform.fargone.sh/c/Space</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Splitter</loc>
+    <loc>https://rite.platform.fargone.sh/c/Splitter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Stack</loc>
+    <loc>https://rite.platform.fargone.sh/c/Stack</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Anchor</loc>
+    <loc>https://rite.platform.fargone.sh/c/Anchor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Blockquote</loc>
+    <loc>https://rite.platform.fargone.sh/c/Blockquote</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Code</loc>
+    <loc>https://rite.platform.fargone.sh/c/Code</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Highlight</loc>
+    <loc>https://rite.platform.fargone.sh/c/Highlight</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Kbd</loc>
+    <loc>https://rite.platform.fargone.sh/c/Kbd</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/List</loc>
+    <loc>https://rite.platform.fargone.sh/c/List</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Mark</loc>
+    <loc>https://rite.platform.fargone.sh/c/Mark</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/NumberFormatter</loc>
+    <loc>https://rite.platform.fargone.sh/c/NumberFormatter</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Text</loc>
+    <loc>https://rite.platform.fargone.sh/c/Text</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Title</loc>
+    <loc>https://rite.platform.fargone.sh/c/Title</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Typography</loc>
+    <loc>https://rite.platform.fargone.sh/c/Typography</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/TableOfContents</loc>
+    <loc>https://rite.platform.fargone.sh/c/TableOfContents</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ActionBar</loc>
+    <loc>https://rite.platform.fargone.sh/c/ActionBar</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ActionIcon</loc>
+    <loc>https://rite.platform.fargone.sh/c/ActionIcon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Burger</loc>
+    <loc>https://rite.platform.fargone.sh/c/Burger</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Button</loc>
+    <loc>https://rite.platform.fargone.sh/c/Button</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/CloseButton</loc>
+    <loc>https://rite.platform.fargone.sh/c/CloseButton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/CopyButton</loc>
+    <loc>https://rite.platform.fargone.sh/c/CopyButton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/FileButton</loc>
+    <loc>https://rite.platform.fargone.sh/c/FileButton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ThemeIcon</loc>
+    <loc>https://rite.platform.fargone.sh/c/ThemeIcon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Toggle</loc>
+    <loc>https://rite.platform.fargone.sh/c/Toggle</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Toolbar</loc>
+    <loc>https://rite.platform.fargone.sh/c/Toolbar</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/UnstyledButton</loc>
+    <loc>https://rite.platform.fargone.sh/c/UnstyledButton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Autocomplete</loc>
+    <loc>https://rite.platform.fargone.sh/c/Autocomplete</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Cascader</loc>
+    <loc>https://rite.platform.fargone.sh/c/Cascader</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Checkbox</loc>
+    <loc>https://rite.platform.fargone.sh/c/Checkbox</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Chip</loc>
+    <loc>https://rite.platform.fargone.sh/c/Chip</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ColorInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/ColorInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ColorPicker</loc>
+    <loc>https://rite.platform.fargone.sh/c/ColorPicker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Combobox</loc>
+    <loc>https://rite.platform.fargone.sh/c/Combobox</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ComboboxPopover</loc>
+    <loc>https://rite.platform.fargone.sh/c/ComboboxPopover</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/FileInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/FileInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Input</loc>
+    <loc>https://rite.platform.fargone.sh/c/Input</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/JsonInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/JsonInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/MaskInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/MaskInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/MultiSelect</loc>
+    <loc>https://rite.platform.fargone.sh/c/MultiSelect</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/NativeSelect</loc>
+    <loc>https://rite.platform.fargone.sh/c/NativeSelect</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/NumberInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/NumberInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/PasswordInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/PasswordInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Pill</loc>
+    <loc>https://rite.platform.fargone.sh/c/Pill</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/PillsInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/PillsInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/PinInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/PinInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Radio</loc>
+    <loc>https://rite.platform.fargone.sh/c/Radio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Select</loc>
+    <loc>https://rite.platform.fargone.sh/c/Select</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/TagsInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/TagsInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Textarea</loc>
+    <loc>https://rite.platform.fargone.sh/c/Textarea</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/TextInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/TextInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/TreeSelect</loc>
+    <loc>https://rite.platform.fargone.sh/c/TreeSelect</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/AlphaSlider</loc>
+    <loc>https://rite.platform.fargone.sh/c/AlphaSlider</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/AngleSlider</loc>
+    <loc>https://rite.platform.fargone.sh/c/AngleSlider</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ColorSwatch</loc>
+    <loc>https://rite.platform.fargone.sh/c/ColorSwatch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/HueSlider</loc>
+    <loc>https://rite.platform.fargone.sh/c/HueSlider</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/RangeSlider</loc>
+    <loc>https://rite.platform.fargone.sh/c/RangeSlider</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Rating</loc>
+    <loc>https://rite.platform.fargone.sh/c/Rating</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/SegmentedControl</loc>
+    <loc>https://rite.platform.fargone.sh/c/SegmentedControl</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Slider</loc>
+    <loc>https://rite.platform.fargone.sh/c/Slider</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Switch</loc>
+    <loc>https://rite.platform.fargone.sh/c/Switch</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Breadcrumbs</loc>
+    <loc>https://rite.platform.fargone.sh/c/Breadcrumbs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Menubar</loc>
+    <loc>https://rite.platform.fargone.sh/c/Menubar</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Menu</loc>
+    <loc>https://rite.platform.fargone.sh/c/Menu</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/NavLink</loc>
+    <loc>https://rite.platform.fargone.sh/c/NavLink</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Pagination</loc>
+    <loc>https://rite.platform.fargone.sh/c/Pagination</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Stepper</loc>
+    <loc>https://rite.platform.fargone.sh/c/Stepper</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Tabs</loc>
+    <loc>https://rite.platform.fargone.sh/c/Tabs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Tree</loc>
+    <loc>https://rite.platform.fargone.sh/c/Tree</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Affix</loc>
+    <loc>https://rite.platform.fargone.sh/c/Affix</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Dialog</loc>
+    <loc>https://rite.platform.fargone.sh/c/Dialog</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Drawer</loc>
+    <loc>https://rite.platform.fargone.sh/c/Drawer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/FloatingWindow</loc>
+    <loc>https://rite.platform.fargone.sh/c/FloatingWindow</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/HoverCard</loc>
+    <loc>https://rite.platform.fargone.sh/c/HoverCard</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Modal</loc>
+    <loc>https://rite.platform.fargone.sh/c/Modal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Overlay</loc>
+    <loc>https://rite.platform.fargone.sh/c/Overlay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Popover</loc>
+    <loc>https://rite.platform.fargone.sh/c/Popover</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Tooltip</loc>
+    <loc>https://rite.platform.fargone.sh/c/Tooltip</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Tour</loc>
+    <loc>https://rite.platform.fargone.sh/c/Tour</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Alert</loc>
+    <loc>https://rite.platform.fargone.sh/c/Alert</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Loader</loc>
+    <loc>https://rite.platform.fargone.sh/c/Loader</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/LoadingOverlay</loc>
+    <loc>https://rite.platform.fargone.sh/c/LoadingOverlay</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Notification</loc>
+    <loc>https://rite.platform.fargone.sh/c/Notification</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Progress</loc>
+    <loc>https://rite.platform.fargone.sh/c/Progress</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/RingProgress</loc>
+    <loc>https://rite.platform.fargone.sh/c/RingProgress</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/SemiCircleProgress</loc>
+    <loc>https://rite.platform.fargone.sh/c/SemiCircleProgress</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/RollingNumber</loc>
+    <loc>https://rite.platform.fargone.sh/c/RollingNumber</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Skeleton</loc>
+    <loc>https://rite.platform.fargone.sh/c/Skeleton</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/EmptyState</loc>
+    <loc>https://rite.platform.fargone.sh/c/EmptyState</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Avatar</loc>
+    <loc>https://rite.platform.fargone.sh/c/Avatar</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/BackgroundImage</loc>
+    <loc>https://rite.platform.fargone.sh/c/BackgroundImage</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Badge</loc>
+    <loc>https://rite.platform.fargone.sh/c/Badge</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Collapse</loc>
+    <loc>https://rite.platform.fargone.sh/c/Collapse</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/DataList</loc>
+    <loc>https://rite.platform.fargone.sh/c/DataList</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/FloatingIndicator</loc>
+    <loc>https://rite.platform.fargone.sh/c/FloatingIndicator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Image</loc>
+    <loc>https://rite.platform.fargone.sh/c/Image</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Indicator</loc>
+    <loc>https://rite.platform.fargone.sh/c/Indicator</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Marquee</loc>
+    <loc>https://rite.platform.fargone.sh/c/Marquee</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/OverflowList</loc>
+    <loc>https://rite.platform.fargone.sh/c/OverflowList</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ScrollArea</loc>
+    <loc>https://rite.platform.fargone.sh/c/ScrollArea</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Scroller</loc>
+    <loc>https://rite.platform.fargone.sh/c/Scroller</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Spoiler</loc>
+    <loc>https://rite.platform.fargone.sh/c/Spoiler</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Table</loc>
+    <loc>https://rite.platform.fargone.sh/c/Table</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Timeline</loc>
+    <loc>https://rite.platform.fargone.sh/c/Timeline</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Transition</loc>
+    <loc>https://rite.platform.fargone.sh/c/Transition</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/FocusTrap</loc>
+    <loc>https://rite.platform.fargone.sh/c/FocusTrap</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Portal</loc>
+    <loc>https://rite.platform.fargone.sh/c/Portal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/VisuallyHidden</loc>
+    <loc>https://rite.platform.fargone.sh/c/VisuallyHidden</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Calendar</loc>
+    <loc>https://rite.platform.fargone.sh/c/Calendar</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/DateInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/DateInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/DatePicker</loc>
+    <loc>https://rite.platform.fargone.sh/c/DatePicker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/DatePickerInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/DatePickerInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/DateTimePicker</loc>
+    <loc>https://rite.platform.fargone.sh/c/DateTimePicker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/InlineDateTimePicker</loc>
+    <loc>https://rite.platform.fargone.sh/c/InlineDateTimePicker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/MiniCalendar</loc>
+    <loc>https://rite.platform.fargone.sh/c/MiniCalendar</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/MonthPicker</loc>
+    <loc>https://rite.platform.fargone.sh/c/MonthPicker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/MonthPickerInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/MonthPickerInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/TimeGrid</loc>
+    <loc>https://rite.platform.fargone.sh/c/TimeGrid</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/TimeInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/TimeInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/TimePicker</loc>
+    <loc>https://rite.platform.fargone.sh/c/TimePicker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/TimeValue</loc>
+    <loc>https://rite.platform.fargone.sh/c/TimeValue</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/YearPicker</loc>
+    <loc>https://rite.platform.fargone.sh/c/YearPicker</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/YearPickerInput</loc>
+    <loc>https://rite.platform.fargone.sh/c/YearPickerInput</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/AreaChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/AreaChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/BarChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/BarChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/BarsList</loc>
+    <loc>https://rite.platform.fargone.sh/c/BarsList</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/BubbleChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/BubbleChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/BulletChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/BulletChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/CandlestickChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/CandlestickChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/CompositeChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/CompositeChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/DonutChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/DonutChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/FunnelChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/FunnelChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/GaugeChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/GaugeChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Heatmap</loc>
+    <loc>https://rite.platform.fargone.sh/c/Heatmap</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/LineChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/LineChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/MatrixChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/MatrixChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/PieChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/PieChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/RadarChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/RadarChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/RadialBarChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/RadialBarChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/SankeyChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/SankeyChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ScatterChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/ScatterChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Sparkline</loc>
+    <loc>https://rite.platform.fargone.sh/c/Sparkline</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/SunburstChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/SunburstChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Treemap</loc>
+    <loc>https://rite.platform.fargone.sh/c/Treemap</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/WaffleChart</loc>
+    <loc>https://rite.platform.fargone.sh/c/WaffleChart</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Schedule</loc>
+    <loc>https://rite.platform.fargone.sh/c/Schedule</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/DayView</loc>
+    <loc>https://rite.platform.fargone.sh/c/DayView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/WeekView</loc>
+    <loc>https://rite.platform.fargone.sh/c/WeekView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/MonthView</loc>
+    <loc>https://rite.platform.fargone.sh/c/MonthView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/YearView</loc>
+    <loc>https://rite.platform.fargone.sh/c/YearView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/AgendaView</loc>
+    <loc>https://rite.platform.fargone.sh/c/AgendaView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/MobileMonthView</loc>
+    <loc>https://rite.platform.fargone.sh/c/MobileMonthView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ResourcesDayView</loc>
+    <loc>https://rite.platform.fargone.sh/c/ResourcesDayView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ResourcesWeekView</loc>
+    <loc>https://rite.platform.fargone.sh/c/ResourcesWeekView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ResourcesMonthView</loc>
+    <loc>https://rite.platform.fargone.sh/c/ResourcesMonthView</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/ResourcesSchedule</loc>
+    <loc>https://rite.platform.fargone.sh/c/ResourcesSchedule</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/CodeHighlight</loc>
+    <loc>https://rite.platform.fargone.sh/c/CodeHighlight</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/JsonViewer</loc>
+    <loc>https://rite.platform.fargone.sh/c/JsonViewer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Carousel</loc>
+    <loc>https://rite.platform.fargone.sh/c/Carousel</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Dropzone</loc>
+    <loc>https://rite.platform.fargone.sh/c/Dropzone</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Lightbox</loc>
+    <loc>https://rite.platform.fargone.sh/c/Lightbox</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Modals</loc>
+    <loc>https://rite.platform.fargone.sh/c/Modals</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/NavigationProgress</loc>
+    <loc>https://rite.platform.fargone.sh/c/NavigationProgress</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Notifications</loc>
+    <loc>https://rite.platform.fargone.sh/c/Notifications</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/RichTextEditor</loc>
+    <loc>https://rite.platform.fargone.sh/c/RichTextEditor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rite.fargone.sh/c/Spotlight</loc>
+    <loc>https://rite.platform.fargone.sh/c/Spotlight</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

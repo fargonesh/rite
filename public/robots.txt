@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rite.fargone.sh/sitemap.xml
+Sitemap: https://rite.platform.fargone.sh/sitemap.xml

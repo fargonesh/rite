@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "type": "module",
   "description": "rite — a React component library distributed as a single package (@fargone/rite).",
-  "homepage": "https://rite.fargone.sh",
+  "homepage": "https://rite.platform.fargone.sh",
   "repository": {
     "url": "https://github.com/fargonesh/rite"
   },
