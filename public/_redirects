@@ -1,0 +1,4 @@
+# Single-page app fallback: serve index.html for all routes so client-side
+# slash routing (/c/Button, /examples/vesper, …) works on direct visits.
+# Supported by Netlify, Cloudflare Pages, and similar static hosts.
+/*    /index.html   200

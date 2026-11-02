@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#121014"/>
+  <circle cx="600" cy="315" r="150" fill="none" stroke="#EDE6D3" stroke-width="10"/>
+  <path d="M480 265 H720 L600 425 Z" fill="none" stroke="#EDE6D3" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M530 315 Q600 270 670 315 Q600 360 530 315 Z" fill="#121014" stroke="#EDE6D3" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="600" cy="315" r="22" fill="#EDE6D3"/>
+  <text x="600" y="540" text-anchor="middle" font-family="monospace" font-size="44" letter-spacing="12" fill="#EDE6D3">RITE</text>
+  <text x="600" y="580" text-anchor="middle" font-family="monospace" font-size="20" letter-spacing="6" fill="#8a877f">179 COMPONENTS · ONE PACKAGE</text>
+</svg>
